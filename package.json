@@ -1,0 +1,18 @@
+{
+  "name": "graphql-codegen-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "graphql-codegen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@graphql-codegen/cli": "^5.0.3",
+    "@graphql-codegen/typescript": "^4.1.2",
+    "graphql-tag": "^2.12.6",
+    "typescript": "^5.7.2"
+  }
+}
